@@ -33,3 +33,11 @@
 /WebShop/WebShop/App_Data
 /WebShop/WebShop/bin
 /WebShop/WebShop/obj
+/packages
+/WebApi/.vs/WebApi
+/WebApi/WebApi/bin/Debug/netcoreapp2.1
+/WebApi/WebApi/obj
+/WebWithTests/bin
+/WebWithTests/obj/Debug
+/WebWithTests.Tests/bin/Debug
+/WebWithTests.Tests/obj/Debug
