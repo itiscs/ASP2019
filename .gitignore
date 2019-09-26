@@ -41,3 +41,6 @@
 /WebWithTests/obj/Debug
 /WebWithTests.Tests/bin/Debug
 /WebWithTests.Tests/obj/Debug
+/WebApiClient/.vs/WebApiClient/v16
+/WebApiClient/WebApiClient/bin/Debug/netcoreapp2.1
+/WebApiClient/WebApiClient/obj
