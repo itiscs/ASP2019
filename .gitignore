@@ -44,3 +44,6 @@
 /WebApiClient/.vs/WebApiClient/v16
 /WebApiClient/WebApiClient/bin/Debug/netcoreapp2.1
 /WebApiClient/WebApiClient/obj
+/NpgsqlProject/.vs/NpgsqlProject
+/NpgsqlProject/NpgsqlProject/bin/Debug/netcoreapp3.0
+/NpgsqlProject/NpgsqlProject/obj
